@@ -1,5 +1,11 @@
 ### Hi there 👋
+Im Seb. Currently studying all things code and looking to expand my knowledge.
 
+I have a background in music production and would hope to work on developing and building synthesizers, production software and plugins to use in my productions and hopefully scramble some brains along the way. Any help or advice would be well appriciated.
+
+sebfrench@outlook.com
+
+watch this space.......
 <!--
 **sebfrench7/sebfrench7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
