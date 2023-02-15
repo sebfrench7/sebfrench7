@@ -1,7 +1,9 @@
 ### Hi there 👋
 Im Seb. Currently studying all things code and looking to expand my knowledge.
 
-I have a background in music production and would hope to work on developing and building synthesizers, production software and plugins to use in my productions and hopefully scramble some brains along the way. Any help or advice would be well appriciated.
+I have a background in music production and would hope to work on developing and building synthesizers, production software and plugins to use in my productions and hopefully scramble some brains along the way. Any help or advice would be well appriciated. 
+
+Below you will find a few examples of my previous work.
 
 sebfrench@outlook.com
 
